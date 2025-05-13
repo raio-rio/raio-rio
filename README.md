@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">🎓 ComSci Major @ UST<br>📚 I'm currently learning GoLang and C++<br>🎲 Fun fact: I resell sneakers</p>
+<p align="left">🎓 BS ComSci Grad @ UST<br>📚 Currently trying GoLang and C++<br>🎲 Fun fact: I resell sneakers and do Crypto</p>
 
 ###
 
