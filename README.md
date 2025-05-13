@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">✨ ComSci Grad in UST here in the Philippines<br>📚 I'm currently learning GoLang and C++<br>🎲 Fun fact: I resell sneakers</p>
+<p align="left">🎓 ComSci Major @ UST<br>📚 I'm currently learning GoLang and C++<br>🎲 Fun fact: I resell sneakers</p>
 
 ###
 
