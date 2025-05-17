@@ -83,11 +83,12 @@
 
 ###
 
-<p align="left">🎓 BS ComSci Grad @ UST<br>📚 Currently trying GoLang and C++<br>🎲 I resell sneakers and do Crypto</p>
+<p align="left">🎓 BS ComSci Grad @ UST<br>📚 Trying out GoLang and C++<br>🤓 Find me in League or watching Anime</p>
 
 ###
 
 <div align="left">
+  https://rio-portfolio.netlify.app/
 </div>
 
 ###
