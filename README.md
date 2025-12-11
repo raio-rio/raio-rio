@@ -83,12 +83,12 @@
 
 ###
 
-<p align="left">🎓 BS ComSci Grad @ UST<br>📚 Trying out GoLang and C++<br>🤓 Find me in League or watching Anime</p>
+<p align="left">🎓 Computer Science Graduate<br>📚 Trying out GoLang and C++<br>🤓 Find me in League or watching Anime</p>
 
 ###
 
 <div align="left">
-  https://rio-portfolio.netlify.app/
+  [https://programmingrio.top/](Portfolio)
 </div>
 
 ###
